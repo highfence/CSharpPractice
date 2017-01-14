@@ -6,3 +6,4 @@ C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CS
 C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csproj.GenerateResource.Cache
 C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
 C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.Form1.resources

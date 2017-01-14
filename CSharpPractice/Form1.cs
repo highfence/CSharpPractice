@@ -16,5 +16,10 @@ namespace CSharpPractice
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("안녕하세요?");
+        }
     }
 }
