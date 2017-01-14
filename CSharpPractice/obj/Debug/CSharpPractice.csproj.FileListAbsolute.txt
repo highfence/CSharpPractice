@@ -9,3 +9,5 @@ C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CS
 C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.Form1.resources
 C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.Form3.resources
 C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.Form4.resources
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.Form5.resources
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.Form6.resources

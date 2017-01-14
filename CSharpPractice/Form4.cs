@@ -50,20 +50,37 @@ namespace CSharpPractice
                 case "A":
                     MessageBox.Show("그렇군요!");
                     break;
+                    
                 case "B":
                     MessageBox.Show("그렇군요!");
                     break;
+
                 case "O":
                     MessageBox.Show("그렇군요!");
                     break;
+
                 case "AB":
                     MessageBox.Show("그렇군요!");
                     break;
+
                 default:
                     MessageBox.Show("장난치지 마세요.");
                     break;
             }
 
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int inputVal = Convert.ToInt16(textBox3.Text);
+            string MessageStr;
+
+            for (int i = 0; i < inputVal; ++i)
+            {
+                int index = i + 1;
+                MessageStr = index.ToString() + "번째 메시지 입니다.\n";
+                MessageBox.Show(MessageStr);
+            }
         }
     }
 }

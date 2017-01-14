@@ -35,6 +35,7 @@
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.button5 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button3
@@ -89,9 +90,20 @@
             this.label4.TabIndex = 3;
             this.label4.Text = "BloodType";
             // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(42, 200);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(75, 23);
+            this.button5.TabIndex = 4;
+            this.button5.Text = "숫자만큼";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
             // Form4
             // 
             this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox4);
@@ -119,5 +131,6 @@
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button button5;
     }
 }
