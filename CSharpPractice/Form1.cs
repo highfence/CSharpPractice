@@ -17,25 +17,23 @@ namespace CSharpPractice
             InitializeComponent();
         }
 
-        string helloWord;
-        string loveWord;
-        string exitWord;
+        string helloWord = "안녕하세요";
+        string loveWord = "사랑합니다";
+        string exitWord; 
 
         private void button3_Click(object sender, EventArgs e)
         {
-            helloWord = "안녕하세요";
             MessageBox.Show(helloWord);
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            loveWord = "사랑합니다.";
             MessageBox.Show(loveWord);
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            exitWord = "나갈까요?";
+            exitWord = helloWord + " " + loveWord;
             MessageBox.Show(exitWord);
         }
     }
