@@ -1,0 +1,8 @@
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.pdb
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csprojResolveAssemblyReference.cache
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.Properties.Resources.resources
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csproj.GenerateResource.Cache
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
+C:\Users\kwen won Lee\Desktop\Project\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb
