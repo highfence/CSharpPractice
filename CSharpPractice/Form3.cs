@@ -17,18 +17,41 @@ namespace CSharpPractice
             InitializeComponent();
         }
 
-        int intVal1;
-        int intVal2;
+        int koreanScore;
+        int englishScore;
+        int mathScore;
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if ((textBox1.Text != "") && (textBox2.Text != ""))
+            if ((textBox1.Text != "") && (textBox2.Text != "") && (textBox3.Text != ""))
             {
-                intVal1 = Convert.ToInt16(textBox1.Text);
-                intVal2 = Convert.ToInt16(textBox2.Text);
-                int resultVal = intVal1 + intVal2;
+                koreanScore = Convert.ToInt16(textBox1.Text);
+                englishScore = Convert.ToInt16(textBox2.Text);
+                mathScore = Convert.ToInt16(textBox3.Text);
+                int resultVal = koreanScore + englishScore + mathScore;
 
                 MessageBox.Show(resultVal.ToString());
+            }
+            else
+            {
+                MessageBox.Show("점수를 채워주세요.");
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if ((textBox1.Text != "") && (textBox2.Text != "") && (textBox3.Text != ""))
+            {
+                koreanScore = Convert.ToInt16(textBox1.Text);
+                englishScore = Convert.ToInt16(textBox2.Text);
+                mathScore = Convert.ToInt16(textBox3.Text);
+                float resultVal = (koreanScore + englishScore + mathScore) / 3;
+
+                MessageBox.Show(resultVal.ToString());
+            }
+            else
+            {
+                MessageBox.Show("점수를 채워주세요.");
             }
         }
     }
